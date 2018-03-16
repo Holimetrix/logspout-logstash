@@ -7,5 +7,5 @@ import (
     _ "github.com/gliderlabs/logspout/routesapi"
     _ "github.com/gliderlabs/logspout/transports/tcp"
     _ "github.com/gliderlabs/logspout/transports/udp"
-    _ "github.com/holimetrix/logspout-logstash"
+    _ "github.com/holimetrix/logspout-logstash/logspout-logstash"
 )
